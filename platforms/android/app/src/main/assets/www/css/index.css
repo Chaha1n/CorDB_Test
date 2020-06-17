@@ -1,6 +1,22 @@
-#getAllButton {
+.container {
     text-align: center;
-    display: inline-block;
-    margin-left: 50vw;
+}
+
+#getAllButton {
     margin-top: 30vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 10vh;
+    ;
+}
+
+#SQLBox {
+    max-width: 40vw;
+    margin-left: 20vw;
+    margin-right: 3vw;
+}
+
+#resultArea {
+    margin-top: 5vh;
+    font-size: 4vw;
 }
